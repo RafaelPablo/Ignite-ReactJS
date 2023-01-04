@@ -17,7 +17,7 @@ export default NextAuth({
     }),
   ],
   callbacks: {
-    signIn(user, account, profile) {
+    signIn({user, account, profile}) {
       console.log(user)
       const { email } = user
       try {
