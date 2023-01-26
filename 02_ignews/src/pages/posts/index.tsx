@@ -1,6 +1,3 @@
-import { useAllPrismicDocumentsByIDs } from '@prismicio/react';
-import { useFirstPrismicDocument, usePrismicDocumentByUID } from '@prismicio/react/dist/clientHooks';
-import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import styles from './styles.module.scss';
 
