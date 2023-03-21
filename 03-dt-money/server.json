@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Website development",
-            "type": "income",
-            "category": "Sales",
-            "price": 500,
-            "createdAt": "2023-03-15T10:19:55.582Z"
-        },
-        {
-            "id": 2,
-            "description": "Night out",
-            "type": "outcome",
-            "category": "Lounge",
-            "price": 300,
-            "createdAt": "2023-03-15T10:01:55.582Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website development",
+      "type": "income",
+      "category": "Sales",
+      "price": 500,
+      "createdAt": "2023-03-15T10:19:55.582Z"
+    },
+    {
+      "id": 2,
+      "description": "Night out",
+      "type": "outcome",
+      "category": "Lounge",
+      "price": 300,
+      "createdAt": "2023-03-15T10:01:55.582Z"
+    },
+    {
+      "description": "Dev de app",
+      "price": 1000,
+      "category": "Softwares",
+      "type": "income",
+      "createdAt": "2023-03-21T09:51:05.905Z",
+      "id": 3
+    },
+    {
+      "description": "Teste",
+      "price": 50,
+      "category": "Bass",
+      "type": "outcome",
+      "createdAt": "2023-03-21T09:54:41.110Z",
+      "id": 4
+    }
+  ]
 }
