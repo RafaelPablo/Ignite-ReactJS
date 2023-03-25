@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-03-21T10:15:26.023Z",
       "id": 5
+    },
+    {
+      "description": "Dev de app",
+      "price": 5000,
+      "category": "Softwares",
+      "type": "income",
+      "createdAt": "2023-03-25T09:41:25.490Z",
+      "id": 6
     }
   ]
 }
