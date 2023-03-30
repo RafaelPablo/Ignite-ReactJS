@@ -17,7 +17,7 @@
       "createdAt": "2023-03-15T10:01:55.582Z"
     },
     {
-      "description": "Dev de app",
+      "description": "App development",
       "price": 1000,
       "category": "Softwares",
       "type": "income",
@@ -25,27 +25,27 @@
       "id": 3
     },
     {
-      "description": "Teste",
+      "description": "New strings",
       "price": 50,
-      "category": "Bass",
+      "category": "Music",
       "type": "outcome",
       "createdAt": "2023-03-21T09:54:41.110Z",
       "id": 4
     },
     {
-      "description": "teste23",
+      "description": "Lunch",
       "price": 23,
-      "category": "alimentação",
+      "category": "Food",
       "type": "outcome",
       "createdAt": "2023-03-21T10:15:26.023Z",
       "id": 5
     },
     {
-      "description": "Dev de app",
-      "price": 5000,
-      "category": "Softwares",
-      "type": "income",
-      "createdAt": "2023-03-25T09:41:25.490Z",
+      "description": "Night out",
+      "price": 200,
+      "category": "Lounge",
+      "type": "outcome",
+      "createdAt": "2023-03-25T10:39:09.291Z",
       "id": 6
     }
   ]
