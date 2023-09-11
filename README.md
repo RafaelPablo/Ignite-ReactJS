@@ -6,19 +6,17 @@ Development of few small aplications using
 Trail ReactJS from Ignite realized by [Rocketseat](https://www.rocketseat.com.br). <br />
 
 ### IG News
-<br />
+
 ![Mailtrap](https://github.com/RafaelPablo/Ignite-ReactJS/blob/main/_visuals/ignews.gif)
 
 ### DT Money
-<br />
+
 ![Mailtrap](https://github.com/RafaelPablo/Ignite-ReactJS/blob/main/_visuals/dtMoney2.gif)
 
 ### Ignite Feed
-<br />
 ![Mailtrap](https://github.com/RafaelPablo/Ignite-ReactJS/blob/main/_visuals/fundamentals.gif)
 
 ### Ignite Shop
-<br />
 Coming soon...
 
 
