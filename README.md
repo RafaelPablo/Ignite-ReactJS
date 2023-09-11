@@ -7,7 +7,7 @@ Trail ReactJS from Ignite realized by [Rocketseat](https://www.rocketseat.com.br
 
 ### IG News
 <br />
-![Mailtrap](https://github.https://github.com/RafaelPablo/Ignite-ReactJS/blob/main/_visuals/ignews.gif/RafaelPablo/nlw-return/blob/main/_walls/mobile.gif)
+![Mailtrap](https://github.com/RafaelPablo/Ignite-ReactJS/blob/main/_visuals/ignews.gif)
 
 ### DT Money
 <br />
@@ -15,7 +15,7 @@ Trail ReactJS from Ignite realized by [Rocketseat](https://www.rocketseat.com.br
 
 ### Ignite Feed
 <br />
-![Mailtrap](https://github.com/RafaelPablo/nlw-return/blob/main/https://github.com/RafaelPablo/Ignite-ReactJS/blob/main/_visuals/fundamentals.gif/mobile.gif)
+![Mailtrap](https://github.com/RafaelPablo/Ignite-ReactJS/blob/main/_visuals/fundamentals.gif)
 
 ### Ignite Shop
 <br />
