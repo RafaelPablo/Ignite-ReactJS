@@ -5,6 +5,8 @@
 /packages/docs/node_modules
 /.pnp
 .pnp.js
+dist
+.turbo
 
 # testing
 /coverage
