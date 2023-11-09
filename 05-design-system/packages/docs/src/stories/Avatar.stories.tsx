@@ -9,6 +9,13 @@ export default {
     src: 'https://avatars.githubusercontent.com/u/9540443?v=4',
     alt: 'Rafael Pablo'
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  }
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
